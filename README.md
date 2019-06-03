@@ -9,4 +9,5 @@ Prototype of the famous Pong game using Unity. Might be buggy.
 -> If you score, your opponent get the point! (on Linux).
 
 - USAGE -
--> Symply unzip files and launch the ".exe" file on Windows or the "x84.." file on Linux.
+1. Unzip files (ClassicPongLinux_v1.0.zip OR ClassicPongWindows_v1.0.rar)
+2. launch the ".exe" file on Windows or the "x84.." file on Linux.
